@@ -1,0 +1,4 @@
+django-magick
+=============
+
+django-magick
